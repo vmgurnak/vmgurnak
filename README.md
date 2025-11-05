@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Frontend Developer** skilled in **React, Redux Toolkit, TypeScript, and Next.js**. 
+# 👋 Hi, I'm **Valeriy**. 
 
 🎯 **Frontend Developer** skilled in **React, Redux Toolkit, TypeScript, and Next.js**.  
 Focused on building **responsive, user-friendly web applications** with clean code and modern UI.
