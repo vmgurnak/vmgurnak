@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Valerii Gurnak**
+# 👋 Hi, I'm **Frontend Developer** skilled in **React, Redux Toolkit, TypeScript, and Next.js**. 
 
 🎯 **Frontend Developer** skilled in **React, Redux Toolkit, TypeScript, and Next.js**.  
 Focused on building **responsive, user-friendly web applications** with clean code and modern UI.
@@ -7,11 +7,10 @@ Focused on building **responsive, user-friendly web applications** with clean co
 
 ## 🧠 **About Me**
 
-- 🎓 Completed **Fullstack Developer Program at GoIT** (2024)  
 - 💻 Developed multiple **individual and team projects** using React ecosystem and REST APIs  
 - 🚀 Experienced in **state management, API integration, and adaptive layouts**  
 - 🤝 14 years in **B2B client management (Kyivstar)** — strong communication and teamwork background  
-- 🌍 Open to **Junior Frontend Developer** opportunities in Ukraine and Europe  
+- 🌍 Open to **Frontend Developer** opportunities 
 
 ---
 
@@ -106,15 +105,6 @@ Responsive landing page for a digital agency.
 Modern fitness club website with adaptive layout and hover effects.  
 **Tech:** HTML5, CSS3, JavaScript  
 🔗 [GitHub Repo](https://github.com/vmgurnak/kropp-crossfit)
-
----
-
-## 📊 **GitHub Stats**
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vmgurnak&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmgurnak&layout=compact" />
-</p>
 
 ---
 
