@@ -96,7 +96,6 @@ Camper rental app with catalog, filtering, and booking functionality.
 
 ## 📫 **Contact Me**
 
-📍 Ukraine  
 ✉️ [vmgurnak@gmail.com](mailto:vmgurnak@gmail.com)  
 💬 [LinkedIn](https://www.linkedin.com/in/valerii-gurnak/) • [Telegram](https://t.me/valeriy_gur)
 
